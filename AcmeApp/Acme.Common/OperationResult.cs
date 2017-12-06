@@ -16,7 +16,7 @@
             this.Message = message;
         }
 
-        //T is used to represent a generic
+        //T is used to represent a generic type
         public T Success { get; set; }
         public string Message { get; set; }
     }
